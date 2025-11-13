@@ -1,0 +1,253 @@
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+nombre de groupes = 11
+%
+groupe = 3 , type = 14 , nbre neurones = 15 , seuil = 0.000000
+taillex = 15 , tailley = 1
+learning rate = 0.000000 
+simulation speed = 0.000000 
+type2  = 0 
+groupe = f_load_mask
+posx = 431 , posy = 66
+reverse = -1
+p_posx = 0 , p_posy = 20
+debug = -4
+ech_temps = 1
+
+%
+groupe = 1 , type = 14 , nbre neurones = 31 , seuil = 0.000000
+taillex = 31 , tailley = 1
+learning rate = 0.000000 
+simulation speed = 0.000000 
+type2  = 0 
+groupe = f_load_mask
+posx = 192 , posy = 109
+reverse = -1
+p_posx = 148 , p_posy = 20
+debug = -4
+ech_temps = 1
+
+%Les commentaires doivent etre mis ici.
+groupe = 0 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_debug
+posx = 107 , posy = 71
+reverse = -1
+p_posx = 296 , p_posy = 20
+debug = -4
+ech_temps = 1
+
+%
+groupe = 6 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 0.000000 
+simulation speed = 0.000000 
+type2  = 0 
+groupe = f_load_mask_sequential
+posx = 200 , posy = 397
+reverse = -1
+p_posx = 444 , p_posy = 20
+debug = -4
+ech_temps = 0
+
+%
+groupe = 11 , type = 14 , nbre neurones = 32 , seuil = 0.000000
+taillex = 32 , tailley = 1
+learning rate = 0.000000 
+simulation speed = 0.000000 
+type2  = 0 
+groupe = f_d_phi
+posx = 768 , posy = 187
+reverse = -1
+p_posx = 592 , p_posy = 20
+debug = -3
+ech_temps = 0
+
+%
+groupe = 10 , type = 14 , nbre neurones = 32 , seuil = 0.000000
+taillex = 32 , tailley = 1
+learning rate = 0.000000 
+simulation speed = 0.000000 
+type2  = 0 
+groupe = f_conv
+posx = 651 , posy = 186
+reverse = -1
+p_posx = 740 , p_posy = 20
+debug = -3
+ech_temps = 0
+
+%
+groupe = 7 , type = 14 , nbre neurones = 32 , seuil = 0.000000
+taillex = 32 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_extract_val_to_vector_non_circular
+posx = 319 , posy = 460
+reverse = -1
+p_posx = 0 , p_posy = 168
+debug = -3
+ech_temps = 0
+
+%
+groupe = 9 , type = 0 , nbre neurones = 32 , seuil = 0.000000
+taillex = 32 , tailley = 1
+learning rate = 0.000000 
+alpha = 0.000000 
+simulation speed = 0.000000 
+type2  = 0 
+groupe = mem
+posx = 590 , posy = 340
+reverse = -1
+p_posx = 148 , p_posy = 168
+debug = -3
+ech_temps = 0
+
+%
+groupe = 8 , type = 14 , nbre neurones = 32 , seuil = 0.000000
+taillex = 32 , tailley = 1
+learning rate = 0.000000 
+simulation speed = 0.000000 
+type2  = 0 
+groupe = f_conv
+posx = 433 , posy = 293
+reverse = -1
+p_posx = 296 , p_posy = 168
+debug = -3
+ech_temps = 0
+
+%
+groupe = 12 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_display_frame_rate
+posx = 954 , posy = 309
+reverse = -1
+p_posx = 444 , p_posy = 168
+debug = -4
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = 13 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_wait_nanosleep
+posx = 852 , posy = 252
+reverse = -1
+p_posx = 592 , p_posy = 168
+debug = -3
+ech_temps = 0
+
+nombre de liaisons = 14
+liaison entre -1   et -1 , type = 1 , nbre = 0 , norme = 0.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 0.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 0   et 3 , type = 5 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = demo_dog.mask
+                         proba = 0.000000 
+liaison entre 10   et 11 , type = 5 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = .
+                         proba = 0.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 8   et 10 , type = 5 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.050000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = input
+                         proba = 0.000000 
+liaison entre 3   et 10 , type = 5 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = mask
+                         proba = 0.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 8   et 9 , type = 3 , nbre = 1 , norme = 0.050000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 0.000000 
+liaison entre 7   et 8 , type = 5 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = input
+                         proba = 0.000000 
+liaison entre 1   et 8 , type = 5 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = mask
+                         proba = 0.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 0   et 1 , type = 5 , nbre = 1 , norme = 0.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = demo_gauss.mask
+                         proba = 0.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 0   et 6 , type = 5 , nbre = 1 , norme = 0.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -fmask.list
+                         proba = 0.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 6   et 7 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = 0,1
+                         proba = 0.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 13   et 12 , type = 5 , nbre = 32 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -x0-y50-I1-n10
+                         proba = 0.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 9   et 9 , type = 3 , nbre = 32 , norme = 0.950000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 1 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 11   et 13 , type = 5 , nbre = 32 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -n100000000
+                         proba = 1.000000 

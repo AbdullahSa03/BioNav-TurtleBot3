@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <preferences bus_id="magnum:26268" bus_ip="127.255.255.255"
+window_width="1200" window_height="800" refresh="30" x_scale="128"
+y_scale="58" z_x_scale="32" z_y_scale="24"
+architecture_window_height="209">
+    <script name="neural_field" visibility="1">
+      <group name="result" output_display="0" display_mode="2"
+min="-1.000000" max="1.000000" normalized="0" x="125" y="0" />
+      <group name="mask" output_display="1" display_mode="2"
+min="-0.004815" max="0.019647" normalized="1" x="150" y="275" />
+      <group name="signal" output_display="1" display_mode="2"
+min="-1.000000" max="1.000000" normalized="0" x="125" y="125" />
+    </script>
+  </preferences>

@@ -1,0 +1,46 @@
+%SYMBOLIC_NO
+begin dimensions
+fenetre1  485 437 0 
+fenetre2  400 300 0 
+image1  400 300 0 
+image2  400 300 0 
+end dimensions
+groupe = 3 
+p_posx = 0 , p_posy = 20
+debug = 0
+groupe = 1 
+p_posx = 148 , p_posy = 20
+debug = 0
+groupe = 0 
+p_posx = 296 , p_posy = 20
+debug = 0
+groupe = 6 
+p_posx = 444 , p_posy = 20
+debug = 0
+groupe = 11 
+p_posx = 303 , p_posy = 6
+debug = 1
+groupe = 10 
+p_posx = 304 , p_posy = 165
+debug = 1
+groupe = 7 
+p_posx = 6 , p_posy = 167
+debug = 1
+groupe = 9 
+p_posx = 6 , p_posy = 6
+debug = 1
+groupe = 8 
+p_posx = 155 , p_posy = 6
+debug = 1
+groupe = 12 
+p_posx = 444 , p_posy = 168
+debug = 0
+groupe = 13 
+p_posx = 592 , p_posy = 168
+debug = 1
+Begin positions
+fenetre1  666 24 
+fenetre2  666 24 
+image1  666 24 
+image2  666 24 
+End positions

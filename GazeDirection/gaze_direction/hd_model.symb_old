@@ -1,0 +1,2514 @@
+nombre de groupes = 124
+%
+groupe = c[0]_30 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_clean_next
+ech_temps = 2
+
+%
+groupe = c[0]_83 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_debut
+ech_temps = 2
+
+%
+groupe = c[0]_84 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_bias
+ech_temps = 2
+
+%
+groupe = c[0]_82 , type = 14 , nbre neurones = 21 , seuil = 0.000000
+taillex = 21 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_create_gaussian_map
+ech_temps = 2
+
+%
+groupe = c[0]_14 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_affiche_image_from_extension
+ech_temps = 1
+
+%
+groupe = c[0]_40 , type = 14 , nbre neurones = 361 , seuil = 0.000000
+taillex = 361 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = %f_n_conv_non_circular
+ech_temps = 1
+
+%
+groupe = c[0]_35 , type = 14 , nbre neurones = 361 , seuil = 0.000000
+taillex = 361 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = %f_shift
+ech_temps = 1
+
+%
+groupe = c[0]_12 , type = 1 , nbre neurones = 361 , seuil = 0.000000
+taillex = 361 , tailley = 1
+learning rate = 1.000000 
+noise_level = 0.000000 
+simulation speed = 1.000000 
+dvp       = -1 , dvn = -1
+alpha     = 0.000000 
+nbre_de_1 = -1.000000 
+sigma_f   = -1.000000 
+type2  = 0 
+groupe = %win_asser
+ech_temps = 1
+
+%
+groupe = c[0]_31 , type = 14 , nbre neurones = 361 , seuil = 0.000000
+taillex = 361 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = %f_shift
+ech_temps = 1
+
+%
+groupe = c[0]_32 , type = 14 , nbre neurones = 361 , seuil = 0.000000
+taillex = 361 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = %f_sum_no_seuil
+ech_temps = 1
+
+%
+groupe = c[0]_41 , type = 14 , nbre neurones = 361 , seuil = 0.000000
+taillex = 361 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = %f_shift
+ech_temps = 1
+
+%
+groupe = c[0]_76 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_clean_next
+ech_temps = 1
+
+%
+groupe = c[0]_77 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_clean_next
+ech_temps = 1
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_100 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_bias
+ech_temps = 1
+
+%
+groupe = c[0]_44 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_convert_RGB_NB
+ech_temps = 1
+
+%
+groupe = c[0]_23 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = %f_sum_no_seuil
+ech_temps = 1
+
+%
+groupe = c[0]_38 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_display_image_activity
+ech_temps = 1
+
+%
+groupe = c[0]_39 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_affiche_image_from_extension
+ech_temps = 1
+
+%
+groupe = c[0]_66 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_affiche_image_from_extension
+ech_temps = 1
+
+%
+groupe = c[0]_80 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 0.000000 
+simulation speed = 0.000000 
+type2  = 0 
+groupe = f_sum_no_seuil
+ech_temps = 1
+
+%
+groupe = c[0]_81 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 0.000000 
+simulation speed = 0.000000 
+type2  = 0 
+groupe = f_sum_no_seuil
+ech_temps = 1
+
+%
+groupe = c[0]_6 , type = 27 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = %break_explo
+ech_temps = 1
+
+%
+groupe = c[0]_7 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = %f_sum_no_seuil
+ech_temps = 1
+
+%
+groupe = c[0]_33 , type = 32 , nbre neurones = 1 , seuil = 0.200000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = %stop_explo
+ech_temps = 1
+
+%
+groupe = c[0]_78 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 0.000000 
+simulation speed = 0.000000 
+type2  = 0 
+groupe = f_sum_no_seuil
+ech_temps = 1
+
+%
+groupe = c[0]_79 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 0.000000 
+simulation speed = 0.000000 
+type2  = 0 
+groupe = f_sum_no_seuil
+ech_temps = 1
+
+%
+groupe = c[0]_29 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_debut
+ech_temps = 2
+
+%
+groupe = c[0]_45 , type = 14 , nbre neurones = 361 , seuil = 0.000000
+taillex = 361 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = %f_shift
+ech_temps = 1
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_101 , type = 14 , nbre neurones = 61 , seuil = 0.000000
+taillex = 61 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_extract_val_to_vector
+ech_temps = 1
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_98 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_sum_no_seuil
+ech_temps = 1
+
+%
+groupe = c[0]_74 , type = 14 , nbre neurones = 610 , seuil = 0.000000
+taillex = 61 , tailley = 10
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_multiply
+ech_temps = 1
+
+%
+groupe = c[0]_28 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_calgradD
+ech_temps = 1
+
+%
+groupe = c[0]_22 , type = 14 , nbre neurones = 12 , seuil = 0.000000
+taillex = 4 , tailley = 3
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_load_caracteristics
+ech_temps = 1
+
+%
+groupe = c[0]_8 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = %f_send
+ech_temps = 1
+
+%
+groupe = c[0]_48 , type = 28 , nbre neurones = 183 , seuil = 0.000000
+taillex = 61 , tailley = 1
+learning rate = 0.900000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = bumpX-thetaL
+ech_temps = 0
+
+%
+groupe = c[0]_13 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = %f_non
+ech_temps = 1
+
+%
+groupe = c[0]_73 , type = 14 , nbre neurones = 610 , seuil = 0.000000
+taillex = 61 , tailley = 10
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_multiply
+ech_temps = 1
+
+%
+groupe = c[0]_50 , type = 14 , nbre neurones = 610 , seuil = 0.000000
+taillex = 61 , tailley = 10
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_sum_no_seuil
+ech_temps = 0
+
+%
+groupe = c[0]_43 , type = 14 , nbre neurones = 320 , seuil = 0.000000
+taillex = 320 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_extract_val_to_vector
+ech_temps = 0
+
+%
+groupe = c[0]_20 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_convert_image_float_to_uchar
+ech_temps = 1
+
+%
+groupe = c[0]_21 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_conv_dog
+ech_temps = 1
+
+%
+groupe = c[0]_42 , type = 0 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+alpha = 0.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = %???
+ech_temps = 1
+
+%
+groupe = c[0]_34 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = %f_dessiner_forme
+ech_temps = 1
+
+%
+groupe = c[0]_9 , type = 0 , nbre neurones = 3 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+alpha = 0.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = %stop_for_learn
+ech_temps = 1
+
+%
+groupe = c[0]_54 , type = 14 , nbre neurones = 400 , seuil = 0.000000
+taillex = 20 , tailley = 20
+learning rate = 0.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_rho_theta
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_102 , type = 14 , nbre neurones = 61 , seuil = 0.000000
+taillex = 61 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_sum_no_seuil
+ech_temps = 0
+
+%
+groupe = c[0]_47 , type = 14 , nbre neurones = 610 , seuil = 0.000000
+taillex = 61 , tailley = 10
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_compet_inter_cartes
+ech_temps = 1
+
+%
+groupe = c[0]_51 , type = 32 , nbre neurones = 610 , seuil = 0.000000
+taillex = 61 , tailley = 10
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = recup_val
+ech_temps = 1
+
+%
+groupe = c[0]_56 , type = 0 , nbre neurones = 5000 , seuil = 0.800000
+taillex = 1 , tailley = 5000
+learning rate = 1.000000 
+alpha = 0.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = dyn
+ech_temps = 0
+
+%
+groupe = c[0]_37 , type = 25 , nbre neurones = 5000 , seuil = 0.000000
+taillex = 1 , tailley = 5000
+learning rate = 0.001000 
+simulation speed = 1.000000 
+tolerance = 0.000000
+dvp       = 0 , dvn = 0
+alpha     = 0.000000 
+nbre_de_1 = 1.000000 
+sigma_f   = 0.000000 
+type2  = 0 
+groupe = SAW
+ech_temps = 0
+
+%
+groupe = c[0]_71 , type = 14 , nbre neurones = 610 , seuil = 0.000000
+taillex = 61 , tailley = 10
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_multiply
+ech_temps = 1
+
+%
+groupe = c[0]_72 , type = 1 , nbre neurones = 61 , seuil = 0.000000
+taillex = 61 , tailley = 1
+learning rate = 1.000000 
+noise_level = 0.000000 
+simulation speed = 1.000000 
+dvp       = -1 , dvn = -1
+alpha     = 0.000000 
+nbre_de_1 = -1.000000 
+sigma_f   = -1.000000 
+type2  = 0 
+groupe = winner_angle
+ech_temps = 1
+
+%
+groupe = c[0]_55 , type = 14 , nbre neurones = 400 , seuil = 0.000000
+taillex = 20 , tailley = 20
+learning rate = 0.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_rho_theta
+ech_temps = 0
+
+%
+groupe = c[0]_36 , type = 1 , nbre neurones = 5000 , seuil = 0.000000
+taillex = 1 , tailley = 5000
+learning rate = 1.000000 
+noise_level = 0.000000 
+simulation speed = 1.000000 
+dvp       = -1 , dvn = -1
+alpha     = 0.000000 
+nbre_de_1 = 3.000000 
+sigma_f   = -1.000000 
+type2  = 0 
+groupe = 3gagnants
+ech_temps = 0
+
+%
+groupe = c[0]_25 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_compet_ptc
+ech_temps = 1
+
+%
+groupe = c[0]_26 , type = 14 , nbre neurones = 240 , seuil = 0.000000
+taillex = 1 , tailley = 240
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_extract_val_to_vector
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_119 , type = 0 , nbre neurones = 4 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+alpha = 0.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = ???
+ech_temps = 1
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_103 , type = 14 , nbre neurones = 61 , seuil = 0.000000
+taillex = 61 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_sum_no_seuil
+ech_temps = 0
+
+%
+groupe = c[0]_16 , type = 14 , nbre neurones = 61 , seuil = 0.000000
+taillex = 61 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_conv_non_circular
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_118 , type = 0 , nbre neurones = 4 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+alpha = 0.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = ???
+ech_temps = 1
+
+%
+groupe = c[0]_thetaS , type = 14 , nbre neurones = 61 , seuil = 0.000000
+taillex = 61 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_shift
+ech_temps = 0
+
+%
+groupe = c[0]_49 , type = 14 , nbre neurones = 183 , seuil = 0.000000
+taillex = 61 , tailley = 3
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_multiply
+ech_temps = 0
+
+%
+groupe = c[0]_52 , type = 0 , nbre neurones = 5 , seuil = 0.000000
+taillex = 1 , tailley = 5
+learning rate = 1.000000 
+alpha = 0.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = ???
+ech_temps = 1
+
+%
+groupe = c[0]_53 , type = 14 , nbre neurones = 61 , seuil = 0.000000
+taillex = 61 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_extract_val_to_vector
+ech_temps = 0
+
+%
+groupe = c[0]_thetax , type = 14 , nbre neurones = 61 , seuil = 0.000000
+taillex = 61 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_conv_non_circular
+ech_temps = 0
+
+%
+groupe = c[0]_24 , type = 14 , nbre neurones = 3 , seuil = 0.000000
+taillex = 3 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_sequential_winner
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_106 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_extract_neurons
+ech_temps = 1
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_87 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_extract_neurons
+ech_temps = 1
+
+%
+groupe = c[0]_57 , type = 28 , nbre neurones = 9 , seuil = 0.000000
+taillex = 1 , tailley = 3
+learning rate = 0.650000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = valeur_obj
+ech_temps = 0
+
+%
+groupe = c[0]_61 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = %f_display_image_activity
+ech_temps = 1
+
+%
+groupe = c[0]_75 , type = 14 , nbre neurones = 61 , seuil = 0.000000
+taillex = 61 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_sum_no_seuil
+ech_temps = 0
+
+%
+groupe = c[0]_60 , type = 14 , nbre neurones = 5 , seuil = 0.000000
+taillex = 1 , tailley = 5
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_checkbox
+ech_temps = 1
+
+%
+groupe = c[0]_63 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_even_first_transition_detect
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_123 , type = 14 , nbre neurones = 7 , seuil = 0.000000
+taillex = 1 , tailley = 7
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_concatenation
+ech_temps = 1
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_117 , type = 0 , nbre neurones = 4 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+alpha = 0.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = ???
+ech_temps = 1
+
+%
+groupe = c[0]_27 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_affiche_pdv_xy
+ech_temps = 0
+
+%
+groupe = c[0]_69 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_flip_flop
+ech_temps = 1
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_108 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_extract_neurons
+ech_temps = 1
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_88 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_sum_no_seuil
+ech_temps = 1
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_Result , type = 14 , nbre neurones = 3 , seuil = 0.000000
+taillex = 1 , tailley = 3
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_sum_no_seuil
+ech_temps = 1
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_86 , type = 1 , nbre neurones = 3 , seuil = 0.000000
+taillex = 1 , tailley = 3
+learning rate = 1.000000 
+noise_level = 0.000000 
+simulation speed = 1.000000 
+dvp       = -1 , dvn = -1
+alpha     = 0.000000 
+nbre_de_1 = -1.000000 
+sigma_f   = -1.000000 
+type2  = 0 
+groupe = 1sortie
+ech_temps = 0
+
+%
+groupe = c[0]_58 , type = 14 , nbre neurones = 3 , seuil = 0.000000
+taillex = 1 , tailley = 3
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_sum_no_seuil
+ech_temps = 0
+
+%
+groupe = c[0]_67 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_checkbox
+ech_temps = 1
+
+%
+groupe = c[0]_70 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_debut
+ech_temps = 2
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_125 , type = 1 , nbre neurones = 7 , seuil = 0.000000
+taillex = 1 , tailley = 7
+learning rate = 1.000000 
+noise_level = 0.000000 
+simulation speed = 1.000000 
+dvp       = -1 , dvn = -1
+alpha     = 0.000000 
+nbre_de_1 = -1.000000 
+sigma_f   = -1.000000 
+type2  = 0 
+groupe = ???
+ech_temps = 1
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_116 , type = 0 , nbre neurones = 4 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+alpha = 0.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = ???
+ech_temps = 1
+
+%
+groupe = c[0]_85 , type = 0 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+alpha = 0.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = %vigilence
+ech_temps = 1
+
+%
+groupe = c[0]_64 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 0.000000 
+simulation speed = 0.000000 
+type2  = 0 
+groupe = f_sum_no_seuil
+ech_temps = 1
+
+%
+groupe = c[0]_17 , type = 32 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = start_learn
+ech_temps = 1
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_111 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_extract_neurons
+ech_temps = 1
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_104 , type = 1 , nbre neurones = 3 , seuil = 0.000000
+taillex = 1 , tailley = 3
+learning rate = 1.000000 
+noise_level = 0.000000 
+simulation speed = 1.000000 
+dvp       = -1 , dvn = -1
+alpha     = 0.000000 
+nbre_de_1 = -1.000000 
+sigma_f   = -1.000000 
+type2  = 0 
+groupe = ???
+ech_temps = 1
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_99 , type = 14 , nbre neurones = 3 , seuil = 0.000000
+taillex = 1 , tailley = 3
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_multiply
+ech_temps = 1
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_89 , type = 14 , nbre neurones = 3 , seuil = 0.000000
+taillex = 1 , tailley = 3
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_extract_val_to_vector
+ech_temps = 1
+
+%
+groupe = c[0]_18 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_multiply
+ech_temps = 1
+
+%
+groupe = c[0]_19 , type = 0 , nbre neurones = 3 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+alpha = 0.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = vigilence
+ech_temps = 1
+
+%
+groupe = c[0]_11 , type = 32 , nbre neurones = 3 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = no_input
+ech_temps = 1
+
+%
+groupe = c[0]_3 , type = 32 , nbre neurones = 9 , seuil = 0.000000
+taillex = 1 , tailley = 3
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = activation_learn
+ech_temps = 1
+
+%
+groupe = c[0]_65 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 0.000000 
+simulation speed = 0.000000 
+type2  = 0 
+groupe = f_sum_no_seuil
+ech_temps = 1
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_115 , type = 0 , nbre neurones = 4 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+alpha = 0.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = ???
+ech_temps = 1
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_95 , type = 14 , nbre neurones = 4 , seuil = 0.000000
+taillex = 4 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_multiply
+ech_temps = 1
+
+%
+groupe = c[0]_59 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_debut
+ech_temps = 2
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_96 , type = 14 , nbre neurones = 3 , seuil = 0.000000
+taillex = 1 , tailley = 3
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_multiply
+ech_temps = 1
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_114 , type = 0 , nbre neurones = 4 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+alpha = 0.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = ???
+ech_temps = 1
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_113 , type = 0 , nbre neurones = 4 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+alpha = 0.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = ???
+ech_temps = 1
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_109 , type = 32 , nbre neurones = 3 , seuil = 0.001000
+taillex = 1 , tailley = 3
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = ???
+ech_temps = 1
+
+%
+groupe = c[0]_15 , type = 14 , nbre neurones = 3 , seuil = 0.000000
+taillex = 1 , tailley = 3
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = %f_z-n
+ech_temps = 1
+
+%
+groupe = c[0]_2 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_checkbox
+ech_temps = 1
+
+%
+groupe = c[0]_92 , type = 14 , nbre neurones = 20 , seuil = 0.000000
+taillex = 5 , tailley = 4
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_concatenation_iter
+ech_temps = 1
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_112 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_save_image_activity
+ech_temps = 1
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_107 , type = 14 , nbre neurones = 3 , seuil = 0.000000
+taillex = 1 , tailley = 3
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_multiply
+ech_temps = 1
+
+%
+groupe = c[0]_62 , type = 14 , nbre neurones = 4 , seuil = 0.000000
+taillex = 4 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_load_mask
+ech_temps = 1
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_97 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_checkbox
+ech_temps = 1
+
+%
+groupe = c[0]_68 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_bias
+ech_temps = 2
+
+%
+groupe = c[0]_4 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_bias
+ech_temps = 2
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_105 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_save_image_activity
+ech_temps = 1
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_110 , type = 14 , nbre neurones = 3 , seuil = 0.000000
+taillex = 1 , tailley = 3
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_sum_no_seuil
+ech_temps = 1
+
+%
+groupe = c[0]_46 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_debut
+ech_temps = 2
+
+%
+groupe = c[0]_93 , type = 1 , nbre neurones = 5 , seuil = 0.000000
+taillex = 1 , tailley = 5
+learning rate = 1.000000 
+noise_level = 0.000000 
+simulation speed = 1.000000 
+dvp       = -1 , dvn = -1
+alpha     = 0.000000 
+nbre_de_1 = -1.000000 
+sigma_f   = -1.000000 
+type2  = 0 
+groupe = winner_Valence_expression
+ech_temps = 1
+
+%
+groupe = c[0]_94 , type = 14 , nbre neurones = 5 , seuil = 0.000000
+taillex = 5 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_max_ana
+ech_temps = 1
+
+%
+groupe = c[0]_91 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_even_first_transition_detect
+ech_temps = 1
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_1 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_load_mask
+ech_temps = 2
+
+%
+groupe = c[0]_5 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_debut
+ech_temps = 2
+
+%Les commentaires doivent etre mis ici.
+groupe = c[0]_90 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_flip_flop
+ech_temps = 2
+
+%
+groupe = c[0]_10 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_debut
+ech_temps = 2
+
+nombre de liaisons = 179
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_29   et c[0]_22 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -fimagelistt-r
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_22   et c[0]_44 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = .
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_44   et c[0]_28 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -A1.2-Fi
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_28   et c[0]_21 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -R6-T2-P15-S0-RE30
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_21   et c[0]_25 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -E20
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_25   et c[0]_39 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -I1-PX300-PY300
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_21   et c[0]_20 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = .
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_20   et c[0]_14 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -I1-PX300-PY0
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_69   et c[0]_63 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_63   et c[0]_24 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = transition_detect
+                         proba = 1.000000 
+liaison entre c[0]_64   et c[0]_27 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = R
+                         proba = 0.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_65   et c[0]_27 , type = 5 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = r
+                         proba = 0.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_68   et c[0]_64 , type = 3 , nbre = 1 , norme = 30.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_68   et c[0]_65 , type = 3 , nbre = 1 , norme = 5.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_63   et c[0]_27 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = transition_detect
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_24   et c[0]_43 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -M1-x0-y0
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_24   et c[0]_26 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -M1-x1-y0
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_43   et c[0]_27 , type = 5 , nbre = 60 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = X
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_26   et c[0]_27 , type = 5 , nbre = 60 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = Y
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_25   et c[0]_24 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = image
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_44   et c[0]_66 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -I1-PX0-PY0
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_44   et c[0]_27 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 1 
+                         nom = -I1
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_44   et c[0]_27 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 1 
+                         nom = image
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_67   et c[0]_27 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = enable
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_70   et c[0]_67 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -i1-naffiche_points
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_26   et c[0]_54 , type = 5 , nbre = 200 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = Y
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_26   et c[0]_55 , type = 5 , nbre = 200 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = Y
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_43   et c[0]_55 , type = 5 , nbre = 200 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = X
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_43   et c[0]_54 , type = 5 , nbre = 200 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = X
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_55   et c[0]_37 , type = 4 , nbre = 1 , norme = 0.010000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 4 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_54   et c[0]_37 , type = 4 , nbre = 1 , norme = 0.001000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 4 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_56   et c[0]_36 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_37   et c[0]_56 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_3   et c[0]_57 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_10   et c[0]_2 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -nlabel_learn
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_2   et c[0]_99 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_17   et c[0]_57 , type = 8 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = learn_factor
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_2   et c[0]_15 , type = 5 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -n1
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_15   et c[0]_3 , type = 3 , nbre = 1 , norme = -1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_96   et c[0]_17 , type = 3 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_36   et c[0]_48 , type = 4 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_36   et c[0]_57 , type = 4 , nbre = 1 , norme = 0.010000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_78   et c[0]_55 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = r
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_79   et c[0]_55 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = R
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_81   et c[0]_54 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = r
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_80   et c[0]_54 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = R
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_44   et c[0]_55 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = ext
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_44   et c[0]_54 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = ext
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_82   et c[0]_thetax , type = 5 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = mask
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_83   et c[0]_82 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -N1-s3
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_thetax   et c[0]_48 , type = 3 , nbre = 300 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_17   et c[0]_48 , type = 8 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = learn_factor
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_5   et c[0]_1 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = Input/vigilence.mask
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_1   et c[0]_19 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_4   et c[0]_11 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_11   et c[0]_18 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici delta vigilence
+liaison entre c[0]_4   et c[0]_18 , type = 3 , nbre = 1 , norme = -0.120000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_18   et c[0]_19 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_19   et c[0]_37 , type = 5 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = vigilence
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_17   et c[0]_11 , type = 3 , nbre = 1 , norme = -1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_24   et c[0]_53 , type = 5 , nbre = 3 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -M1-x0-y0
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_53   et c[0]_thetax , type = 5 , nbre = 320 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = input
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_84   et c[0]_79 , type = 3 , nbre = 1 , norme = 40.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_84   et c[0]_78 , type = 3 , nbre = 1 , norme = 4.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_84   et c[0]_80 , type = 3 , nbre = 1 , norme = 60.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_84   et c[0]_81 , type = 3 , nbre = 1 , norme = 6.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_102   et c[0]_thetaS , type = 5 , nbre = 100 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = shift
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_77   et c[0]_58 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = .
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_76   et c[0]_75 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = .
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_77   et c[0]_50 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = .
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_58   et c[0]_38 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -freconnaissance-r-d0
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_57   et c[0]_49 , type = 7 , nbre = 15 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         dv_x = 0.000000 
+                         dv_y = 0.000000 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_57   et c[0]_58 , type = 3 , nbre = 15 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_49   et c[0]_50 , type = 3 , nbre = 1 , norme = 0.125000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_thetaS   et c[0]_75 , type = 3 , nbre = 1 , norme = 0.125000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_75   et c[0]_75 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 1 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_50   et c[0]_50 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 1 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_thetaS   et c[0]_49 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_58   et c[0]_58 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 1 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_50   et c[0]_74 , type = 3 , nbre = 305 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_71   et c[0]_72 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_59   et c[0]_60 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -i0-nobjPoursuivi
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_60   et c[0]_52 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_74   et c[0]_47 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -lin
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_73   et c[0]_71 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_52   et c[0]_71 , type = 7 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         dv_x = -1.000000 
+                         dv_y = 0.000000 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_35   et c[0]_31 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = copy-ring
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_72   et c[0]_45 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = copy-xm0-xM1-oxm-oxM
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_45   et c[0]_41 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = copy-ring
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_13   et c[0]_9 , type = 3 , nbre = 1 , norme = 0.700000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_41   et c[0]_40 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = input
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_32   et c[0]_32 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 1 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_32   et c[0]_12 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_30   et c[0]_32 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = .
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_12   et c[0]_23 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_33   et c[0]_13 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = .
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_8   et c[0]_6 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = sync
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_9   et c[0]_8 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = TrackingToStop
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_7   et c[0]_6 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_60   et c[0]_61 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -r-f./gagnants/objdesire-d0-tabs
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_23   et c[0]_33 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_72   et c[0]_42 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_33   et c[0]_7 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_42   et c[0]_34 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -I1-FCHAINE-color22-H15-PX0-PYsizeY
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_47   et c[0]_51 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_51   et c[0]_73 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_74   et c[0]_73 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_17   et c[0]_9 , type = 3 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_40   et c[0]_35 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = copy-ring
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_31   et c[0]_32 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_4   et c[0]_85 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_57   et c[0]_86 , type = 3 , nbre = 15 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_86   et c[0]_27 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = color
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_22   et c[0]_87 , type = 5 , nbre = 12 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -x0-y0
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_87   et c[0]_88 , type = 3 , nbre = 1 , norme = 0.500000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_88   et c[0]_89 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -M1-x0-y0
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_89   et c[0]_99 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_94   et c[0]_93 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_90   et c[0]_91 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_91   et c[0]_92 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -reset
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_92   et c[0]_94 , type = 7 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         dv_x = 0.000000 
+                         dv_y = -1.000000 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_58   et c[0]_92 , type = 5 , nbre = 5 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -input
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_10   et c[0]_97 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -learn
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_3   et c[0]_96 , type = 3 , nbre = 20 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_97   et c[0]_96 , type = 3 , nbre = 5 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_17   et c[0]_37 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = learn
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_99   et c[0]_3 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_100   et c[0]_98 , type = 3 , nbre = 1 , norme = 0.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_98   et c[0]_101 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -M1-x0-y0
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_82   et c[0]_16 , type = 5 , nbre = 21 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = mask
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_101   et c[0]_16 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = input
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_48   et c[0]_102 , type = 3 , nbre = 183 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_thetax   et c[0]_thetaS , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = copy
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_thetax   et c[0]_103 , type = 3 , nbre = 61 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_58   et c[0]_Result , type = 3 , nbre = 5 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_46   et c[0]_62 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = Input/exclusion
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_62   et c[0]_95 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_17   et c[0]_95 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_95   et c[0]_24 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = RE
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_109   et c[0]_107 , type = 3 , nbre = 3 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_89   et c[0]_107 , type = 3 , nbre = 3 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_Result   et c[0]_104 , type = 3 , nbre = 3 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_104   et c[0]_109 , type = 3 , nbre = 3 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_107   et c[0]_110 , type = 3 , nbre = 3 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_110   et c[0]_110 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 1 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_110   et c[0]_112 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -nresults
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_107   et c[0]_105 , type = 5 , nbre = 3 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -nSResult
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_Result   et c[0]_106 , type = 5 , nbre = 3 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -x0-y0
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_Result   et c[0]_108 , type = 5 , nbre = 3 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -x0-y1
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_Result   et c[0]_111 , type = 5 , nbre = 3 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -x0-y2
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_106   et c[0]_119 , type = 3 , nbre = 1 , norme = 0.600000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_111   et c[0]_113 , type = 3 , nbre = 1 , norme = 0.600000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_106   et c[0]_118 , type = 3 , nbre = 1 , norme = 0.500000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_106   et c[0]_117 , type = 3 , nbre = 1 , norme = 0.300000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_106   et c[0]_116 , type = 3 , nbre = 1 , norme = 0.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_106   et c[0]_115 , type = 3 , nbre = 1 , norme = 0.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_106   et c[0]_114 , type = 3 , nbre = 1 , norme = 0.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_106   et c[0]_113 , type = 3 , nbre = 1 , norme = 0.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_111   et c[0]_114 , type = 3 , nbre = 1 , norme = 0.500000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_111   et c[0]_115 , type = 3 , nbre = 1 , norme = 0.300000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_111   et c[0]_116 , type = 3 , nbre = 1 , norme = 0.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_111   et c[0]_117 , type = 3 , nbre = 1 , norme = 0.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_111   et c[0]_118 , type = 3 , nbre = 1 , norme = 0.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_111   et c[0]_119 , type = 3 , nbre = 1 , norme = 0.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_108   et c[0]_118 , type = 3 , nbre = 1 , norme = 0.400000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_108   et c[0]_114 , type = 3 , nbre = 1 , norme = 0.400000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_108   et c[0]_116 , type = 3 , nbre = 1 , norme = 0.850000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_108   et c[0]_117 , type = 3 , nbre = 1 , norme = 0.600000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_108   et c[0]_119 , type = 3 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_108   et c[0]_115 , type = 3 , nbre = 1 , norme = 0.600000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_108   et c[0]_113 , type = 3 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_113   et c[0]_123 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = 6
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_114   et c[0]_123 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = 5
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_115   et c[0]_123 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = 4
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_116   et c[0]_123 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = 3
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_117   et c[0]_123 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = 2
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_118   et c[0]_123 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = 1
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_119   et c[0]_123 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = 0
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre c[0]_123   et c[0]_125 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 

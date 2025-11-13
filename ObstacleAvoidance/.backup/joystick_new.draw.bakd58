@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<symbolique><liaison_list>
+	<liaison>
+		<depart>1</depart>
+		<arrivee>2</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>15</depart>
+		<arrivee>14</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>2</depart>
+		<arrivee>15</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>14</depart>
+		<arrivee>16</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>11</depart>
+		<arrivee>17</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>14</depart>
+		<arrivee>10</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>16</depart>
+		<arrivee>11</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>10</depart>
+		<arrivee>11</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>14</depart>
+		<arrivee>12</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>12</depart>
+		<arrivee>11</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>14</depart>
+		<arrivee>13</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>13</depart>
+		<arrivee>11</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>18</depart>
+		<arrivee>19</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>15</depart>
+		<arrivee>18</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>16</depart>
+		<arrivee>21</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>20</depart>
+		<arrivee>21</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>21</depart>
+		<arrivee>22</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>24</depart>
+		<arrivee>24</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>26</depart>
+		<arrivee>26</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>26</depart>
+		<arrivee>27</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+</liaison_list>
+<group_list>
+	<group>
+		<num>1</num>
+		<posx>204</posx>
+		<posy>687</posy>
+		<reverse>-1</reverse>
+	</group>
+	<group>
+		<num>2</num>
+		<posx>327</posx>
+		<posy>691</posy>
+		<reverse>-1</reverse>
+	</group>
+	<group>
+		<num>14</num>
+		<posx>655</posx>
+		<posy>744</posy>
+		<reverse>-1</reverse>
+	</group>
+	<group>
+		<num>15</num>
+		<posx>489</posx>
+		<posy>659</posy>
+		<reverse>-1</reverse>
+	</group>
+	<group>
+		<num>16</num>
+		<posx>848</posx>
+		<posy>645</posy>
+		<reverse>-1</reverse>
+	</group>
+	<group>
+		<num>17</num>
+		<posx>1216</posx>
+		<posy>829</posy>
+		<reverse>-1</reverse>
+	</group>
+	<group>
+		<num>10</num>
+		<posx>833</posx>
+		<posy>926</posy>
+		<reverse>-1</reverse>
+	</group>
+	<group>
+		<num>11</num>
+		<posx>962</posx>
+		<posy>844</posy>
+		<reverse>-1</reverse>
+	</group>
+	<group>
+		<num>12</num>
+		<posx>826</posx>
+		<posy>1024</posy>
+		<reverse>-1</reverse>
+	</group>
+	<group>
+		<num>13</num>
+		<posx>835</posx>
+		<posy>765</posy>
+		<reverse>-1</reverse>
+	</group>
+	<group>
+		<num>18</num>
+		<posx>550</posx>
+		<posy>531</posy>
+		<reverse>-1</reverse>
+	</group>
+	<group>
+		<num>19</num>
+		<posx>749</posx>
+		<posy>531</posy>
+		<reverse>-1</reverse>
+	</group>
+	<group>
+		<num>20</num>
+		<posx>861</posx>
+		<posy>578</posy>
+		<reverse>-1</reverse>
+	</group>
+	<group>
+		<num>21</num>
+		<posx>1000</posx>
+		<posy>697</posy>
+		<reverse>-1</reverse>
+	</group>
+	<group>
+		<num>22</num>
+		<posx>1176</posx>
+		<posy>677</posy>
+		<reverse>-1</reverse>
+	</group>
+	<group>
+		<num>24</num>
+		<posx>1026</posx>
+		<posy>550</posy>
+		<reverse>-1</reverse>
+	</group>
+	<group>
+		<num>25</num>
+		<posx>1328</posx>
+		<posy>552</posy>
+		<reverse>-1</reverse>
+	</group>
+	<group>
+		<num>26</num>
+		<posx>1030</posx>
+		<posy>458</posy>
+		<reverse>-1</reverse>
+	</group>
+	<group>
+		<num>27</num>
+		<posx>1181</posx>
+		<posy>502</posy>
+		<reverse>-1</reverse>
+	</group>
+</group_list>
+</symbolique>

@@ -1,0 +1,1087 @@
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+%!ignore_include 
+nombre de groupes = 22
+%
+groupe = h , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 0.000000 
+simulation speed = 0.000000 
+type2  = 0 
+groupe = f_vue_metres
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = result , type = 14 , nbre neurones = 256 , seuil = 0.000000
+taillex = 256 , tailley = 1
+learning rate = 0.000000 
+simulation speed = 0.000000 
+type2  = 0 
+groupe = f_conv
+ech_temps = 0
+
+%
+groupe = input1 , type = 14 , nbre neurones = 256 , seuil = 0.000000
+taillex = 256 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_vue_metres_population
+ech_temps = 0
+
+%
+groupe = input2 , type = 14 , nbre neurones = 256 , seuil = 0.000000
+taillex = 256 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_vue_metres_population
+ech_temps = 0
+
+%
+groupe = 1 , type = 14 , nbre neurones = 256 , seuil = 0.000000
+taillex = 256 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_sum_no_seuil
+ech_temps = 0
+
+%
+groupe = 15 , type = 29 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 10000 
+groupe = real_time
+ech_temps = 0
+
+%
+groupe = 2 , type = 14 , nbre neurones = 127 , seuil = 0.000000
+taillex = 127 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_sum_no_seuil
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = mask_strength , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_vue_metres
+ech_temps = 0
+
+%
+groupe = mask , type = 14 , nbre neurones = 127 , seuil = 0.000000
+taillex = 127 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_multiply
+ech_temps = 0
+
+%
+groupe = neg_sigma , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_vue_metres
+ech_temps = 0
+
+%
+groupe = 8 , type = 14 , nbre neurones = 127 , seuil = 0.000000
+taillex = 127 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_create_gaussian_map
+ech_temps = 0
+
+%
+groupe = pos_sigma , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_vue_metres
+ech_temps = 0
+
+%
+groupe = 6 , type = 14 , nbre neurones = 127 , seuil = 0.000000
+taillex = 127 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_create_gaussian_map
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = signal , type = 14 , nbre neurones = 256 , seuil = 0.000000
+taillex = 256 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 10.000000 
+type2  = 0 
+groupe = f_conv
+ech_temps = 0
+
+%
+groupe = signal_two_strength , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_vue_metres
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = 3 , type = 14 , nbre neurones = 256 , seuil = 0.000000
+taillex = 256 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_multiply
+ech_temps = 0
+
+%
+groupe = 4 , type = 14 , nbre neurones = 256 , seuil = 0.000000
+taillex = 256 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_sum_no_seuil
+ech_temps = 0
+
+%
+groupe = signal_one_strength , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_vue_metres
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = 5 , type = 14 , nbre neurones = 256 , seuil = 0.000000
+taillex = 256 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_multiply
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = 20 , type = 14 , nbre neurones = 256 , seuil = 0.000000
+taillex = 256 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_sum_no_seuil
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = 21 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_motor_set_position
+ech_temps = 0
+
+%Les commentaires doivent etre mis ici.
+groupe = 22 , type = 14 , nbre neurones = 1 , seuil = 0.000000
+taillex = 1 , tailley = 1
+learning rate = 1.000000 
+simulation speed = 1.000000 
+type2  = 0 
+groupe = f_motor_get_position
+ech_temps = 0
+
+nombre de liaisons = 32
+liaison entre -1   et -1 , type = 1 , nbre = 0 , norme = 0.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 0.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 4   et result , type = 5 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.100000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = input
+                         proba = 0.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre mask   et result , type = 5 , nbre = 15 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = mask
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre input1   et 5 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre input2   et 1 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 15   et input1 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -m0-M1-i0.5
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 15   et input2 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -m0-M1-i0.75
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 15   et 15 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 1 
+                         nom = -t50000
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 6   et 6 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 1 
+                         nom = -w-s1-N
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 8   et 2 , type = 3 , nbre = 1 , norme = -0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 15   et pos_sigma , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -m0-M100-i6
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 8   et 8 , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 1 
+                         nom = -w-s1-N
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 15   et neg_sigma , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -m0-M100-i12
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre pos_sigma   et 6 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre neg_sigma   et 8 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 6   et 2 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 15   et mask_strength , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -m0-M100-i1
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre mask_strength   et mask , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 15   et h , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -m-10-M0-i-0.5
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 2   et mask , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 1   et 3 , type = 3 , nbre = 32 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 15   et signal_two_strength , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -M100-i30
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre signal_two_strength   et 3 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 20   et signal , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = input
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre mask   et signal , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = mask-dyn
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre h   et 4 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre signal   et 4 , type = 3 , nbre = 1 , norme = 0.300000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre signal_one_strength   et 5 , type = 3 , nbre = 1 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 15   et signal_one_strength , type = 5 , nbre = 1 , norme = 0.100000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         nom = -M100-i30
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 3   et 20 , type = 3 , nbre = 256 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 5   et 20 , type = 3 , nbre = 256 , norme = 1.000000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 0 
+                         proba = 1.000000 
+%Les commentaires doivent etre mis ici.
+liaison entre 4   et 4 , type = 3 , nbre = 256 , norme = 0.700000
+                         temps de memorisation entree= 0.000000 
+                         temps de memorisation sortie= 0.000000 
+                         mode de calcul        = 0 
+                         secondaire            = 1 
+                         proba = 1.000000 

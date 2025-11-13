@@ -1,0 +1,142 @@
+%SYMBOLIC_NO
+begin dimensions
+fenetre1  1341 1005 0 
+fenetre2  400 300 0 
+image1  400 300 0 
+image2  400 300 0 
+end dimensions
+groupe = h 
+p_posx = 24 , p_posy = 28
+debug = 1
+groupe = result 
+p_posx = 184 , p_posy = 28
+debug = 1
+groupe = input1 
+p_posx = 344 , p_posy = 28
+debug = 1
+groupe = input2 
+p_posx = 504 , p_posy = 28
+debug = 1
+groupe = 1 
+p_posx = 664 , p_posy = 28
+debug = 1
+groupe = 15 
+p_posx = 824 , p_posy = 28
+debug = 1
+groupe = 2 
+p_posx = 984 , p_posy = 28
+debug = 1
+groupe = mask_strength 
+p_posx = 24 , p_posy = 196
+debug = 1
+groupe = mask 
+p_posx = 184 , p_posy = 196
+debug = 1
+groupe = neg_sigma 
+p_posx = 344 , p_posy = 196
+debug = 1
+groupe = 8 
+p_posx = 504 , p_posy = 196
+debug = 1
+groupe = pos_sigma 
+p_posx = 664 , p_posy = 196
+debug = 1
+groupe = 6 
+p_posx = 824 , p_posy = 196
+debug = 1
+groupe = signal 
+p_posx = 984 , p_posy = 196
+debug = 1
+groupe = signal_two_strength 
+p_posx = 24 , p_posy = 364
+debug = 1
+groupe = 3 
+p_posx = 184 , p_posy = 364
+debug = 1
+groupe = 4 
+p_posx = 344 , p_posy = 364
+debug = 1
+groupe = signal_one_strength 
+p_posx = 504 , p_posy = 364
+debug = 1
+groupe = 5 
+p_posx = 664 , p_posy = 364
+debug = 1
+groupe = 20 
+p_posx = 824 , p_posy = 364
+debug = 1
+groupe = 23 
+p_posx = 984 , p_posy = 364
+debug = 1
+groupe = 24 
+p_posx = 24 , p_posy = 532
+debug = 1
+groupe = 25 
+p_posx = 184 , p_posy = 532
+debug = 1
+groupe = 26 
+p_posx = 344 , p_posy = 532
+debug = 1
+groupe = 7 
+p_posx = 983 , p_posy = 1056
+debug = 1
+groupe = 27 
+p_posx = 664 , p_posy = 532
+debug = 1
+groupe = 30 
+p_posx = 824 , p_posy = 532
+debug = 1
+groupe = 31 
+p_posx = 984 , p_posy = 532
+debug = 1
+groupe = 33 
+p_posx = 24 , p_posy = 700
+debug = 1
+groupe = 32 
+p_posx = 184 , p_posy = 700
+debug = 1
+groupe = 9 
+p_posx = 734 , p_posy = 1116
+debug = 1
+groupe = 35 
+p_posx = 504 , p_posy = 700
+debug = 1
+groupe = 36 
+p_posx = 664 , p_posy = 700
+debug = 1
+groupe = 37 
+p_posx = 824 , p_posy = 700
+debug = 1
+groupe = 38 
+p_posx = 984 , p_posy = 700
+debug = 1
+groupe = 39 
+p_posx = 24 , p_posy = 868
+debug = 1
+groupe = 40 
+p_posx = 184 , p_posy = 868
+debug = 1
+groupe = 42 
+p_posx = 344 , p_posy = 868
+debug = 1
+groupe = 43 
+p_posx = 457 , p_posy = 1097
+debug = 1
+groupe = 44 
+p_posx = 664 , p_posy = 868
+debug = 1
+groupe = 45 
+p_posx = 956 , p_posy = 1268
+debug = 1
+groupe = 46 
+p_posx = 984 , p_posy = 868
+debug = 1
+groupe = 47 
+p_posx = 199 , p_posy = 1102
+debug = 1
+Begin positions
+fenetre1  610 36 
+fenetre2  62 32 
+image1  62 32 
+image2  62 32 
+End positions

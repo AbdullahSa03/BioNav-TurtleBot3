@@ -1,0 +1,2 @@
+port = /dev/input/js0
+type = auto

@@ -1,0 +1,373 @@
+%SYMBOLIC_NO
+begin dimensions
+fenetre1  1850 1001 0 
+fenetre2  400 300 0 
+image1  400 300 0 
+image2  400 300 0 
+end dimensions
+groupe = 5 
+p_posx = 24 , p_posy = 28
+debug = 0
+groupe = 4 
+p_posx = 184 , p_posy = 28
+debug = 0
+groupe = 3 
+p_posx = 344 , p_posy = 28
+debug = 0
+groupe = 2 
+p_posx = 504 , p_posy = 28
+debug = 0
+groupe = 29 
+p_posx = 664 , p_posy = 28
+debug = 0
+groupe = 1 
+p_posx = 824 , p_posy = 28
+debug = 0
+groupe = 70 
+p_posx = 984 , p_posy = 28
+debug = 0
+groupe = 44 
+p_posx = 24 , p_posy = 196
+debug = 0
+groupe = 22 
+p_posx = 184 , p_posy = 196
+debug = 0
+groupe = 11 
+p_posx = 344 , p_posy = 196
+debug = 0
+groupe = 10 
+p_posx = 504 , p_posy = 196
+debug = 0
+groupe = 21 
+p_posx = 664 , p_posy = 196
+debug = 0
+groupe = 39 
+p_posx = 824 , p_posy = 196
+debug = 0
+groupe = 20 
+p_posx = 984 , p_posy = 196
+debug = 0
+groupe = 69 
+p_posx = 24 , p_posy = 364
+debug = 0
+groupe = 68 
+p_posx = 184 , p_posy = 364
+debug = 0
+groupe = 67 
+p_posx = 344 , p_posy = 364
+debug = 0
+groupe = 28 
+p_posx = 504 , p_posy = 364
+debug = 0
+groupe = 66 
+p_posx = 664 , p_posy = 364
+debug = 0
+groupe = 19 
+p_posx = 824 , p_posy = 364
+debug = 0
+groupe = 18 
+p_posx = 984 , p_posy = 364
+debug = 0
+groupe = 17 
+p_posx = 24 , p_posy = 532
+debug = 0
+groupe = 15 
+p_posx = 703 , p_posy = 260
+debug = 0
+groupe = 27 
+p_posx = 658 , p_posy = 321
+debug = 0
+groupe = 26 
+p_posx = 702 , p_posy = 332
+debug = 0
+groupe = 25 
+p_posx = 664 , p_posy = 532
+debug = 0
+groupe = 14 
+p_posx = 824 , p_posy = 532
+debug = 0
+groupe = 24 
+p_posx = 984 , p_posy = 532
+debug = 0
+groupe = 65 
+p_posx = 24 , p_posy = 700
+debug = 0
+groupe = 64 
+p_posx = 184 , p_posy = 700
+debug = 0
+groupe = 83 
+p_posx = 344 , p_posy = 700
+debug = 0
+groupe = 38 
+p_posx = 504 , p_posy = 700
+debug = 0
+groupe = 37 
+p_posx = 435 , p_posy = 74
+debug = 1
+groupe = 36 
+p_posx = 824 , p_posy = 700
+debug = 0
+groupe = 43 
+p_posx = 984 , p_posy = 700
+debug = 0
+groupe = 63 
+p_posx = 24 , p_posy = 868
+debug = 0
+groupe = 82 
+p_posx = 184 , p_posy = 868
+debug = 0
+groupe = thetax 
+p_posx = 344 , p_posy = 868
+debug = 0
+groupe = 61 
+p_posx = 504 , p_posy = 868
+debug = 0
+groupe = 60 
+p_posx = 664 , p_posy = 868
+debug = 0
+groupe = 59 
+p_posx = 824 , p_posy = 868
+debug = 0
+groupe = 58 
+p_posx = 984 , p_posy = 868
+debug = 0
+groupe = 57 
+p_posx = 829 , p_posy = 72
+debug = 1
+groupe = 56 
+p_posx = 184 , p_posy = 1036
+debug = 0
+groupe = 81 
+p_posx = 755 , p_posy = 853
+debug = 0
+groupe = 55 
+p_posx = 65 , p_posy = 68
+debug = 1
+groupe = 54 
+p_posx = 241 , p_posy = 71
+debug = 1
+groupe = 53 
+p_posx = 824 , p_posy = 1036
+debug = 0
+groupe = 84 
+p_posx = 984 , p_posy = 1036
+debug = 0
+groupe = 80 
+p_posx = 24 , p_posy = 1204
+debug = 0
+groupe = 52 
+p_posx = 184 , p_posy = 1204
+debug = 0
+groupe = 51 
+p_posx = 344 , p_posy = 1204
+debug = 0
+groupe = 50 
+p_posx = 504 , p_posy = 1204
+debug = 0
+groupe = 49 
+p_posx = 664 , p_posy = 1204
+debug = 0
+groupe = 48 
+p_posx = 631 , p_posy = 71
+debug = 1
+groupe = 79 
+p_posx = 984 , p_posy = 1204
+debug = 0
+groupe = 47 
+p_posx = 24 , p_posy = 1372
+debug = 0
+groupe = thetaS 
+p_posx = 184 , p_posy = 1372
+debug = 0
+groupe = 73 
+p_posx = 344 , p_posy = 1372
+debug = 0
+groupe = 78 
+p_posx = 504 , p_posy = 1372
+debug = 0
+groupe = 77 
+p_posx = 664 , p_posy = 1372
+debug = 0
+groupe = 76 
+p_posx = 824 , p_posy = 1372
+debug = 0
+groupe = 75 
+p_posx = 984 , p_posy = 1372
+debug = 0
+groupe = 74 
+p_posx = 24 , p_posy = 1540
+debug = 0
+groupe = 72 
+p_posx = 184 , p_posy = 1540
+debug = 0
+groupe = 71 
+p_posx = 344 , p_posy = 1540
+debug = 0
+groupe = 85 
+p_posx = 504 , p_posy = 1540
+debug = 0
+groupe = 86 
+p_posx = 664 , p_posy = 1540
+debug = 0
+groupe = 87 
+p_posx = 824 , p_posy = 1540
+debug = 0
+groupe = 88 
+p_posx = 984 , p_posy = 1540
+debug = 0
+groupe = 89 
+p_posx = 24 , p_posy = 1708
+debug = 0
+groupe = 91 
+p_posx = 184 , p_posy = 1708
+debug = 0
+groupe = 90 
+p_posx = 344 , p_posy = 1708
+debug = 0
+groupe = 92 
+p_posx = 504 , p_posy = 1708
+debug = 0
+groupe = 94 
+p_posx = 664 , p_posy = 1708
+debug = 0
+groupe = 93 
+p_posx = 824 , p_posy = 1708
+debug = 0
+groupe = 96 
+p_posx = 984 , p_posy = 1708
+debug = 0
+groupe = 97 
+p_posx = 24 , p_posy = 1876
+debug = 0
+groupe = 99 
+p_posx = 184 , p_posy = 1876
+debug = 0
+groupe = 100 
+p_posx = 344 , p_posy = 1876
+debug = 0
+groupe = 98 
+p_posx = 504 , p_posy = 1876
+debug = 0
+groupe = 101 
+p_posx = 664 , p_posy = 1876
+debug = 0
+groupe = 16 
+p_posx = 824 , p_posy = 1876
+debug = 0
+groupe = 102 
+p_posx = 984 , p_posy = 1876
+debug = 0
+groupe = 103 
+p_posx = 24 , p_posy = 2044
+debug = 0
+groupe = Result 
+p_posx = 184 , p_posy = 2044
+debug = 0
+groupe = 46 
+p_posx = 344 , p_posy = 2044
+debug = 0
+groupe = 62 
+p_posx = 504 , p_posy = 2044
+debug = 0
+groupe = 95 
+p_posx = 664 , p_posy = 2044
+debug = 0
+groupe = 107 
+p_posx = 824 , p_posy = 2044
+debug = 0
+groupe = 104 
+p_posx = 984 , p_posy = 2044
+debug = 0
+groupe = 109 
+p_posx = 24 , p_posy = 2212
+debug = 0
+groupe = 110 
+p_posx = 184 , p_posy = 2212
+debug = 0
+groupe = 112 
+p_posx = 344 , p_posy = 2212
+debug = 0
+groupe = 105 
+p_posx = 504 , p_posy = 2212
+debug = 0
+groupe = 125 
+p_posx = 1356 , p_posy = 298
+debug = 1
+groupe = 126 
+p_posx = 1113 , p_posy = 473
+debug = 1
+groupe = 127 
+p_posx = 879 , p_posy = 468
+debug = 1
+groupe = 128 
+p_posx = 24 , p_posy = 2380
+debug = 0
+groupe = 129 
+p_posx = 184 , p_posy = 2380
+debug = 0
+groupe = 130 
+p_posx = 344 , p_posy = 2380
+debug = 0
+groupe = 131 
+p_posx = 504 , p_posy = 2380
+debug = 0
+groupe = 132 
+p_posx = 127 , p_posy = 308
+debug = 1
+groupe = 133 
+p_posx = 1307 , p_posy = 23
+debug = 1
+groupe = 134 
+p_posx = 320 , p_posy = 304
+debug = 1
+groupe = 135 
+p_posx = 514 , p_posy = 302
+debug = 1
+groupe = 136 
+p_posx = 130 , p_posy = 513
+debug = 1
+groupe = 137 
+p_posx = 328 , p_posy = 516
+debug = 1
+groupe = 138 
+p_posx = 512 , p_posy = 515
+debug = 1
+groupe = 139 
+p_posx = 664 , p_posy = 2548
+debug = 0
+groupe = 140 
+p_posx = 824 , p_posy = 2548
+debug = 0
+groupe = 141 
+p_posx = 984 , p_posy = 2548
+debug = 0
+groupe = 142 
+p_posx = 1105 , p_posy = 280
+debug = 1
+groupe = 114 
+p_posx = 184 , p_posy = 2716
+debug = 0
+groupe = 115 
+p_posx = 898 , p_posy = 291
+debug = 1
+groupe = 116 
+p_posx = 504 , p_posy = 2716
+debug = 0
+groupe = 117 
+p_posx = 664 , p_posy = 2716
+debug = 0
+groupe = 118 
+p_posx = 824 , p_posy = 2716
+debug = 0
+groupe = 119 
+p_posx = 984 , p_posy = 2716
+debug = 0
+groupe = 120 
+p_posx = 24 , p_posy = 2884
+debug = 0
+Begin positions
+fenetre1  70 27 
+fenetre2  215 172 
+image1  70 27 
+image2  70 27 
+End positions

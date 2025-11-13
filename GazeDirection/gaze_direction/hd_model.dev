@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+
+<bus id="serial_bus" type = "serial" name = "/dev/ttyACM0" baudrate = "9600" databits = "8" stopbits = "1" parity ="N" />
+<motor  id="Neck" bus="serial_bus" type = "servo" name = "Neck" controller_type = "pololu" ssc_num = "0" position_0= "4000" position_1="8000" A_pos_feedback="0" pos_init = "6000" Vmax = "1" />
+
+
+
+
+
+
+
+
+Camera cam is capture.hwc
+%Camera yel is capture2.hwc
+[ 9662.434466] usb 1-2.2: new full-speed USB device number 12 using xhci_hcd
+[ 9662.560580] usb 1-2.2: New USB device found, idVendor=1ffb, idProduct=008a, bcdDevice= 1.02
+[ 9662.560595] usb 1-2.2: New USB device strings: Mfr=1, Product=2, SerialNumber=5
+[ 9662.560602] usb 1-2.2: Product: Pololu Mini Maestro 12-Channel USB Servo Controller
+[ 9662.560608] usb 1-2.2: Manufacturer: Pololu Corporation
+[ 9662.560613] usb 1-2.2: SerialNumber: 00471877
+[ 9662.632693] cdc_acm 1-2.2:1.0: ttyACM0: USB ACM device
+[ 9662.635380] cdc_acm 1-2.2:1.2: ttyACM1: USB ACM device
+
+
+%Camera titi is firewire.hwc
+%Camera pano is ../hardware_files/capture.hwc
+%Camera titi is ../hardware_files/firewire_robot.hwc
+%Camera mycam is cam_usb.hwc
+
+%ClientRobubox myclient is ../hardware_files/myclient.hwc
+%Robot robulab_etis4 is  ../hardware_files/robulab.hwr
+%Joystick joy is ../hardware_files/joystick.hwj
+
