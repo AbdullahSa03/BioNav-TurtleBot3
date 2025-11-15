@@ -3,6 +3,14 @@
 ## Short Description
 A bio-inspired navigation system for TurtleBot3 using head direction and place cell models to enable adaptive navigation in dynamic environments.
 
+## 👥 Team Members
+| Name | ID |
+|------|------|
+| Mohamad Chehab | b00090578 |
+| Abdullah Salmeh | b00093434 |
+| Mustafa Alani | b00093659 |
+| Abdulaziz Alotaibi | b00091606 |
+
 ---
 
 ## Overview
