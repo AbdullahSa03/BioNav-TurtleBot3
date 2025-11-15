@@ -11,7 +11,7 @@ A bio-inspired navigation system for TurtleBot3 using head direction and place c
 | Mustafa Alani | b00093659 |
 | Abdulaziz Alotaibi | b00091606 |
 
-#Advisor: Dr. Aliaa Moualla
+Advisor: Dr. Aliaa Moualla
 
 ---
 
